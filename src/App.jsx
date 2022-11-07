@@ -5,7 +5,7 @@ import ElementA from "./components/ElementA.jsx";
 import Home from "./components/Home.jsx";
 import Historial from "./components/Historial.jsx";
 import ContactUs from "./components/ContactUs.jsx";
-import "./styles/bootstrap.min.css";
+import "./Styles/bootstrap.min.css";
 import React, { useState } from "react";
 import Desarrolladores from "./components/Desarrolladores.jsx";
 
